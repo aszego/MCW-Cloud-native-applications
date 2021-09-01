@@ -32,7 +32,6 @@ Microsoft and the trademarks listed at <https://www.microsoft.com/en-us/legal/in
     - [Customer situation](#customer-situation)
     - [Customer needs](#customer-needs)
     - [Customer objections](#customer-objections)
-    - [Infographic for common scenarios](#infographic-for-common-scenarios)
   - [Step 2: Design a proof of concept solution](#step-2-design-a-proof-of-concept-solution)
   - [Step 3: Present the solution](#step-3-present-the-solution)
   - [Wrap-up](#wrap-up)
@@ -174,22 +173,6 @@ While multi-tenancy is a goal for the code base, even with this in place, Arthur
 
 4. We know Microsoft offers Cognitive Services with pre-built AI models. What models offer the features we are looking to use for enhancing our conference web site?
 
-### Infographic for common scenarios
-
-_Kubernetes Architecture_
-
->**Note**: This diagram is an illustration of the Kubernetes topology, illustrating the controller backplane nodes managed by Azure, and the agent nodes where Customers can integrate and deploy applications.
-
-![A diagram of Azure Kubernetes Service managed components with controller backplane and agent nodes.](media/azure-kubernetes-components.png)
-
-<https://docs.microsoft.com/en-us/azure/aks/intro-kubernetes>
-
-_CI/CD to Azure Kubernetes Service with Azure DevOps_
-
-![A diagram showing the Azure DevOps workflow to build Docker images from source code, push images to Azure Container Registry, and deploy to Azure Kubernetes Service.](media/azure-devops-aks.png)
-
-<https://cloudblogs.microsoft.com/opensource/2018/11/27/tutorial-azure-devops-setup-cicd-pipeline-kubernetes-docker-helm/>
-
 ## Step 2: Design a proof of concept solution
 
 **Outcome**
@@ -270,25 +253,7 @@ Prepare a 15-minute chalk-talk style presentation to the customer.
 
 Present a solution to the target customer audience in a 15-minute chalk-talk format.
 
-Timeframe: 30 minutes
-
-**Presentation**
-
-Directions:
-
-1. Pair with another table.
-
-2. One table is the Microsoft team and the other table is the customer.
-
-3. The Microsoft team presents their proposed solution to the customer.
-
-4. The customer makes one of the objections from the list of objections.
-
-5. The Microsoft team responds to the objection.
-
-6. The customer team gives feedback to the Microsoft team.
-
-7. Tables switch roles and repeat Steps 2-6.
+Timeframe: 20 minutes per team.
 
 ## Wrap-up
 
